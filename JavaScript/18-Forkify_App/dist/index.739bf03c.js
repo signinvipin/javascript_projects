@@ -3054,7 +3054,7 @@ parcelHelpers.export(exports, "timePeriod", ()=>timePeriod);
 parcelHelpers.export(exports, "key", ()=>key);
 const baseURL = "https://forkify-api.herokuapp.com/api/v2/recipes";
 const timePeriod = 3;
-const key = "31721811-a6b8-4e16-b58d-7188c8e3bd8e";
+const key = "31721811-xxxx-4e16-b58d-7188c8e3bd8e";
 
 },{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"8PWvx":[function(require,module,exports) {
 module.exports = require("b37898b5bf0b13e0").getBundleURL("g05j8") + "icons.21bad73c.svg" + "?" + Date.now();
