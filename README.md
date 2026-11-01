@@ -1,9 +1,9 @@
 # javascript_projects
 
-JavaScript practice projects, from language fundamentals to small apps built with the DOM, async code and modules. Code follows a structured JavaScript course and is organised by topic.
+JavaScript projects, from language fundamentals to small apps built with the DOM, async code and modules. Code follows a structured JavaScript parts.
 
 ## Contents (in `JavaScript/`)
-| Folder | Topic |
+| Folder | Concept/App |
 |---|---|
 | `00` to `03` | Basics (ES5), fundamentals, editor setup and debugging |
 | `05-DOM-and-Events_Guess-My-Number`, `06-…_Modal`, `07-…_Pig-Game` | DOM manipulation and events, small browser games |
@@ -25,6 +25,6 @@ npm start
 ```
 
 ## Notes
-- Course exercises, kept as a record of practice.
+- Course exercises, kept as a record of work.
 - The Forkify API key is not included (masked as `xxxx`). The original free API this app used is no longer available, so the app won't load recipes as it stands.
 - Generated build output (`dist/`), `node_modules` and `.parcel-cache` are not committed.
