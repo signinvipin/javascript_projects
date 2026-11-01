@@ -27,4 +27,4 @@ npm start
 ## Notes
 - Course exercises, kept as a record of work.
 - The Forkify API key is not included (masked as `xxxx`). The original free API this app used is no longer available, so the app won't load recipes as it stands.
-- Generated build output (`dist/`), `node_modules` and `.parcel-cache` are not committed.
+- Build output for the Forkify and modules examples (dist/) is committed so the built versions can be viewed. `node_modules` and `.parcel-cache` are not committed.

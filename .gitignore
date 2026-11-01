@@ -1,7 +1,6 @@
 .prettierrc
 .parcel-cache
 node_modules
-dist
 
 # .prettierrc is prettier configuration file for JavaScript syntax formatting in VSCode text editor.
 # .parcel-cache is created and used when parcel does bundling of modules, so not required.
